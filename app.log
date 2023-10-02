@@ -20,3 +20,244 @@
 {"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:38:58.770Z"}
 {"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:39:00.029Z"}
 {"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:39:00.036Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T17:45:50.049Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T17:45:50.057Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:47:47.742Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:48:05.010Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:48:05.013Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:48:07.948Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:48:32.408Z"}
+{"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:48:32.411Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:48:36.064Z"}
+{"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:48:36.068Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:55:14.709Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:55:14.710Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:55:16.011Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:57:36.176Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:57:36.178Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:57:57.426Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:57:57.428Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:57:58.492Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:57:58.494Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:57:59.517Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:58:09.535Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:58:13.128Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:58:14.284Z"}
+{"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:58:14.286Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:07:13.602Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:07:13.609Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:22.172Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:07:23.706Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:24.761Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:24.764Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:38.770Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:39.875Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:39.876Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:40.928Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:40.929Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:41.943Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:41.945Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:42.867Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:42.868Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:43.795Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:44.664Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:44.665Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:45.567Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:45.568Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:46.446Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:46.447Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:47.353Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:47.354Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:48.246Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:48.248Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:49.055Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:49.955Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:49.957Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:50.920Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:50.922Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:51.703Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:51.704Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:52.580Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:07:53.384Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:54.249Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:54.250Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:55.261Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:55.264Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:56.106Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:56.935Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:56.936Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:57.721Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:07:58.600Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:07:58.601Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:07:59.502Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:08:00.389Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:08:01.234Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:08:01.235Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:08:02.481Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:08:03.609Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:08:03.611Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:08:04.422Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:08:04.423Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:08:05.304Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:08:06.126Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:08:06.923Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:08:06.924Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:10:53.836Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:10:53.843Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:10:59.819Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:11:01.213Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:11:02.307Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:11:02.309Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:11:03.262Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:11:04.199Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:11:05.100Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:11:05.103Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:12:35.766Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:12:37.154Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:12:38.138Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:12:38.141Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:12:39.041Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:12:57.844Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:12:57.853Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:17:35.442Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:17:35.450Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:18:51.777Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:18:56.043Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:19:04.875Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:19:04.876Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:19:05.931Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:19:07.015Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:19:07.644Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:19:07.645Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:19:24.207Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:19:27.880Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:19:28.944Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:19:28.946Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:19:30.257Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:19:31.331Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:19:32.247Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:19:32.249Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:19:33.202Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:19:33.883Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:19:34.246Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:19:34.248Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:19:34.726Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:25:43.864Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:25:43.872Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:25:50.966Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:25:50.969Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T18:25:52.239Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T18:25:52.241Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:25:53.237Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:25:54.202Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:25:55.091Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:25:55.093Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:36:54.025Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:36:54.036Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:37:00.422Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:37:03.643Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:37:04.675Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:37:04.676Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:37:05.943Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:39:40.587Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:39:40.595Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:44:11.690Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:44:11.697Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:45:33.162Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:45:33.173Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:45:45.809Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T18:48:52.796Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:48:52.805Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T18:56:55.440Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:57:57.375Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:58:06.447Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:58:08.397Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:58:08.400Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:58:10.306Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:58:11.388Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:58:12.289Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:58:12.291Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:59:08.250Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:59:20.856Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T18:59:22.035Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T18:59:22.036Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T18:59:23.164Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T18:59:24.000Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T19:06:23.792Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:07:15.961Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:07:18.286Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T19:07:19.339Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T19:07:19.340Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:07:20.025Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:09:02.128Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T19:12:29.766Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:13:12.693Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:13:16.651Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T19:13:17.519Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T19:13:17.520Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:13:18.641Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T19:14:26.670Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T19:14:26.674Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:40.295Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:43.077Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:43.078Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:44.194Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:45.008Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:45.009Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:45.874Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:45.875Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:46.756Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:47.419Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:47.420Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:48.140Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:48.141Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:48.889Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:48.889Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:49.607Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:49.607Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:50.287Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:14:51.010Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:51.766Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:51.767Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:52.788Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:14:53.427Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:53.933Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:53.933Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:14:54.830Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:14:54.831Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:14:55.518Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:14:56.132Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T19:14:56.677Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T19:14:56.678Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T19:19:50.567Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T19:21:14.203Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T19:21:14.208Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:21:21.397Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:21:24.726Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:21:24.728Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:21:25.783Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:21:26.615Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T19:21:27.396Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T19:21:27.397Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:28.218Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:29.143Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:29.990Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:30.903Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:34.061Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:21:35.257Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:10.752Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:13.240Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:14.021Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:14.908Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T19:22:27.448Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T19:22:27.452Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:22:39.539Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:22:41.530Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T19:22:42.696Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T19:22:42.698Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 1","timestamp":"2023-10-02T19:22:51.835Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 2","timestamp":"2023-10-02T19:22:54.672Z"}
+{"level":"warn","message":"Authentication failed. Consecutive failures: 3","timestamp":"2023-10-02T19:22:55.538Z"}
+{"level":"warn","message":"User undefined blocked due to 3 consecutive failures. Ending session.","timestamp":"2023-10-02T19:22:55.539Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:56.611Z"}
+{"level":"warn","message":"User undefined is blocked. Further authentication attempts are not allowed.","timestamp":"2023-10-02T19:22:57.698Z"}
