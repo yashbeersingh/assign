@@ -1,0 +1,22 @@
+2023-10-02T17:05:27.284Z - Unauthorized access attempt by user123
+2023-10-02T17:07:42.779Z - Unauthorized access attempt by user123
+{"level":"error","message":"Unauthorized access attempt by user123","timestamp":"2023-10-02T17:10:17.466Z"}
+{"level":"info","message":"Application started","timestamp":"2023-10-02T17:10:17.470Z"}
+{"level":"error","message":"Unauthorized access attempt by user123","timestamp":"2023-10-02T17:18:01.732Z"}
+{"level":"info","message":"Application started","timestamp":"2023-10-02T17:18:01.735Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T17:23:51.747Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T17:23:51.751Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T17:34:37.062Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T17:34:37.070Z"}
+{"level":"info","message":"Monitoring server running on port 3000","timestamp":"2023-10-02T17:36:51.206Z"}
+{"level":"info","message":"Application server running on port 8080","timestamp":"2023-10-02T17:36:51.214Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:38:17.794Z"}
+{"level":"info","message":"Accessed secure route","timestamp":"2023-10-02T17:38:17.796Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:38:50.052Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:38:54.826Z"}
+{"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:38:54.829Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:38:56.401Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:38:57.718Z"}
+{"level":"warn","message":"Authentication failed","timestamp":"2023-10-02T17:38:58.770Z"}
+{"level":"info","message":"User authenticated successfully","timestamp":"2023-10-02T17:39:00.029Z"}
+{"level":"info","message":"Performed some activity","timestamp":"2023-10-02T17:39:00.036Z"}
